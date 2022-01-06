@@ -1,8 +1,8 @@
  
-24clan Injector > Privacy Policy
+Tunnel Core v2 > Privacy Policy
 **Privacy Policy**
 
-tcodes built the 24clan Injector - SSH/ HTTP/SSL VPN app as an Ad Supported app. This SERVICE is provided by tcodes at no cost and is intended for use as is.
+Adonis built the Tunnel Core v2 - SSH/ HTTP/SSL VPN app as an Ad Supported app. This SERVICE is provided by tcodes at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -10,7 +10,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
  
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 24clan Injector - SSH/ HTTP/SSL VPN unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tunnel Core v2 - SSH/ HTTP/SSL VPN unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -66,8 +66,9 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-06-08
+This policy is effective as of 2022-01-06
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Tcodes.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Tunnel Core.
+https://m.facebook.com/www.ExtractionVPN.net/?ref=bookmarks
