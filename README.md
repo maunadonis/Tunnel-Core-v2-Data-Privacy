@@ -1,8 +1,7 @@
- 
 Tunnel Core v2 > Privacy Policy
 **Privacy Policy**
 
-Adonis built the Tunnel Core v2 - SSH/HTTP/SSL/SSL + Payload/Slowdns VPN app as an Ad Supported app. This SERVICE is provided by Tunnel Core at no cost and is intended for use as is.
+Adonis built the Tunnel Core v2 - SSH/HTTP/SSL/SSL + Payload/Slowdns WebView VPN app as an Ad Supported app. This SERVICE is provided by Tunnel Core at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -10,7 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
  
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tunnel Core v2 - SSH/HTTP/SSL/SSL + Payload/Slowdns VPN unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tunnel Core v2 - SSH/HTTP/SSL/SSL + Payload/Slowdns WebView VPN unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
